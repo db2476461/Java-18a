@@ -58,13 +58,12 @@ public class JavaFinalProject10
 
 public static void main(String[] args) 
 {
-    //global variables 
-    int menuChoice;
+//global variables 
+int menuChoice;
 Boolean exit = false;
 
 while(exit!=true)
 {
-   // int menuChoice;
     //create new Menu object named menu
     Menu menu = new Menu();
      //display game title
